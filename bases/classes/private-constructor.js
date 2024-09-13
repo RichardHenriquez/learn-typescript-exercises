@@ -16,5 +16,5 @@
     }
     ;
     const apocalipsis1 = Apocalipsis.callApocalipsis();
-    console.log(apocalipsis);
+    console.log(Apocalipsis);
 })();
